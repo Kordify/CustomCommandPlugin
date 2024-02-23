@@ -1,0 +1,5 @@
+main: world.anhgelus.kordify.customcommand.CustomCommand
+author: Anhgelus Morhtuuzh
+version: 0.0.1
+name: CustomCommand
+description: Creating slash commands
